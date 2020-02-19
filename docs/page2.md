@@ -1,7 +1,7 @@
 ---
-title: WDW
+title: Page2
 description: blog description
 publish: false
 ---
 
-# WDW
+# Page2
